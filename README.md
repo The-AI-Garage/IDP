@@ -3,7 +3,7 @@ Intelligent document processing with AWS.
 
 The architecture used is show below.
 
-
+![AWSarchitecture](diagram.drawio.png)
 
 Requirements:
 
