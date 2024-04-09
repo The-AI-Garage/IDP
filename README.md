@@ -1,7 +1,7 @@
 # IDP
 Intelligent document processing with AWS.
 
-The architecture used is show below.
+The architecture used is shown below (*** this architecture is for demostration purpose lambda functions are named different on the lambdaFunctions directory ***).
 
 ![AWSarchitecture](diagram.drawio.png)
 
