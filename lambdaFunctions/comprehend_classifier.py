@@ -1,4 +1,4 @@
-from custom_classifier import ComprehendClassifier
+from lambdaFunctions.custom_classifier import ComprehendClassifier
 import json
 import boto3
 import os
