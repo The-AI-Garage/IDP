@@ -7,5 +7,5 @@ The architecture used is shown below (**this architecture is for demostration pu
 
 Requirements:
 
-* Some Lambda functions requiered to import pandas library.
+* Some Lambda functions requiered to import pandas library. Which means that a lambda layer is needed.
 * This is a partial solution. Should be integrated with Textract to get OCR function for extracting text from pdf documents.
