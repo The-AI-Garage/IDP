@@ -1,6 +1,9 @@
 # IDP
 Intelligent document processing with AWS.
 
+Use case:
+This is a law firm that would like to classify their documents automatically. The task is simple, the model should classify if a document requieres a legal action or not. Since this task requeries an attorney to complete it manually. Therefore, this solution is provided.  
+
 The architecture used is shown below (**this architecture is for demostration purpose. lambda functions are named different on the lambdaFunctions directory**).
 
 ![AWSarchitecture](images/diagram.drawio.png)
